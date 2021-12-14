@@ -23,7 +23,7 @@ namespace ImageCR
             {
                 CompressImage(imagePath, destinationPath, qualityPercent, imageMaxWidth);
             }
-        }
+        } 
 
         /// <summary>
         /// In this method we collect user data within console app
